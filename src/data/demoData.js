@@ -1,0 +1,9 @@
+export const qualityCSV = `id,name,email,department
+C01,  Demo User A  ,USER.A@example.com,Engineering
+C02,Demo User B,user.b@example.com,Operations
+C02,Duplicate User,user.b@example.com,Operations
+C03,Demo User C,broken-email,Support
+C04,,user.d@example.com,Engineering
+C05,Demo User E,user.e@example.com,Finance
+C06,Demo User F,user.f@example.com,
+C07,Demo User G,user.g@example.com,Support`;

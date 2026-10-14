@@ -1,0 +1,4 @@
+id,name,email,department
+U01, Demo Upload ,UPLOAD@example.com,Support
+U01,Duplicate,dup@example.com,Support
+U02,Bad Record,broken,IT
